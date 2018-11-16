@@ -15,7 +15,8 @@ _Create a page that lets user view the menu. It let the user view which taps are
 * Run $ npm run start.
 * Navigate to localhost:8080 on the browser. 
 
-
+* App structure
+![Structure](https://github.com/akjolilgiz/TapRoomReact/blob/master/Structure.png)
 
 ## Known Bugs
 
